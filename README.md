@@ -11,31 +11,40 @@
 ---
 
 ### 👨‍💻 About Me
-I am a dedicated **Cybersecurity** student with a profound interest in vulnerability research, cryptography, and practical security implementations. My current focus is on mastering **Ethical Hacking** and **Digital Forensics** to build a safer digital world.
+I am a **Cybersecurity Student** at **Al-Kunooze University**, based in Basra, Iraq. I have a strong interest in **Digital Forensics**, **Cryptography**, and **Secure Systems**. I am dedicated to mastering the art of ethical hacking and building robust security solutions.
 
-- 🔭 **Currently working on:** Enhancing my Penetration Testing skills and security automation.
-- 🌱 **Learning:** Advanced **Python** for security and **Cloud Security** architectures.
-- 💬 **Ask me about:** Cybersecurity, Encryption, Linux, or anything tech-related.
-- ⚡ **Fun fact:** I believe that "Security is not a product, but a process."
+- 🔭 **Currently focusing on:** Digital Forensics and Cryptography.
+- 🌱 **Learning & Improving:** Advanced **Python** and **Java** for security applications.
+- 💬 **Ask me about:** Cybersecurity, Encryption, or Network Security.
+- ⚡ **Goal:** To contribute to a safer digital environment through hands-on security solutions.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
+#### 🛡️ Cybersecurity & Networking
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-blue?style=for-the-badge&logo=data-recovery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-green?style=for-the-badge&logo=encryption&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-#### 🌐 Security Tools
+#### 💻 Programming & Tools
 <p align="left">
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burpsuite" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### 🧰 Security Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-00599C?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4B00?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
 </p>
 
 ---

@@ -56,13 +56,6 @@ I am a dedicated **Cybersecurity** student with a profound interest in vulnerabi
 
 ---
 
-### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/9gkc/9gkc/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/9gkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="9gkc" height="30" width="40" /></a>

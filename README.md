@@ -1,80 +1,47 @@
-# 👋 Hi, I'm Ali Al-Karrar (9gkc)
+# 🛡️ Cybersecurity Student | Ali Al-Karrar
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Cybersecurity%20Student&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacker;Security+Researcher;Digital+Forensics+Enthusiast" alt="Typing SVG" />
-</p>
+Welcome to my professional GitHub profile. I am a dedicated student and researcher in the field of Cybersecurity, committed to building a safer digital world.
 
 ---
 
-### 👨‍💻 About Me
-I am a **Cybersecurity Student** at **Al-Kunooze University**, based in Basra, Iraq. I have a strong interest in **Digital Forensics**, **Cryptography**, and **Secure Systems**. I am dedicated to mastering the art of ethical hacking and building robust security solutions.
+### 👤 About Me
+I am currently pursuing my studies in **Cybersecurity** at **Al-Kunooze University** in Basra, Iraq. My academic and personal projects focus on identifying vulnerabilities and implementing robust security measures.
 
-- 🔭 **Currently focusing on:** Digital Forensics and Cryptography.
-- 🌱 **Learning & Improving:** Advanced **Python** and **Java** for security applications.
-- 💬 **Ask me about:** Cybersecurity, Encryption, or Network Security.
-- ⚡ **Goal:** To contribute to a safer digital environment through hands-on security solutions.
-
----
-
-### 🛠️ Skills & Technologies
-
-#### 🛡️ Cybersecurity & Networking
-<p align="left">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-blue?style=for-the-badge&logo=data-recovery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-green?style=for-the-badge&logo=encryption&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-#### 💻 Programming & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🧰 Security Arsenal
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-00599C?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF4B00?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-</p>
+- 🎓 **Education:** Cybersecurity Student at Al-Kunooze University.
+- 📍 **Location:** Basra, Iraq.
+- 🎯 **Focus:** Digital Forensics, Ethical Hacking, and Cryptography.
+- 🚀 **Goal:** To become a leading Security Architect and Digital Forensics Expert.
 
 ---
 
-### 📊 GitHub Statistics & Activity
+### 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="9gkc's GitHub Stats" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cybersecurity** | Ethical Hacking, Digital Forensics, Cryptography, Network Security |
+| **Programming** | Python, Java, Shell Scripting, HTML/CSS |
+| **Operating Systems** | Kali Linux, Ubuntu, Windows Security |
+| **Security Tools** | Nmap, Metasploit, Wireshark, Burp Suite |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=dark&hide_border=true" alt="GitHub Streak" />
+### 📈 GitHub Activity
+*(Statistics are updated automatically based on my contributions)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=radical&hide_border=true" alt="9gkc's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/9gkc" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/9gkc" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Feel free to reach out for collaborations or security-related discussions.
 
+- **LinkedIn:** [linkedin.com/in/9gkc](https://www.linkedin.com/in/9gkc)
+- **GitHub:** [github.com/9gkc](https://github.com/9gkc)
+
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+  <i>"Security is not a product, but a process."</i>
 </p>

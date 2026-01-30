@@ -52,15 +52,15 @@ I am a **Cybersecurity Student** at **Al-Kunooze University**, based in Basra, I
 ### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="9gkc's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="9gkc's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

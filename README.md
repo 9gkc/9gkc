@@ -82,12 +82,12 @@ me.say_hi()
 </div>
 
 ```text
-🔐 Ethical Hacking          ████████████████████░   70%
-🔍 Digital Forensics        ███████████████████░░   80%
-🔑 Cryptography             ██████████████████░░░   60%
-🌐 Network Security         ███████████████████░░   80%
-🐍 Python Scripting         ████████████████████░   90%
-⚙️  System Hardening        ██████████████████░░░   80%
+🔐 Ethical Hacking          ████████████████████░   95%
+🔍 Digital Forensics        ███████████████████░░   90%
+🔑 Cryptography             ██████████████████░░░   85%
+🌐 Network Security         ███████████████████░░   88%
+🐍 Python Scripting         ████████████████████░   92%
+⚙️  System Hardening        ██████████████████░░░   87%
 ```
 
 ---
@@ -100,11 +100,14 @@ me.say_hi()
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=9gkc&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9gkc&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&title_color=00F7F7&area=true)
 
 </div>
 
 ---
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
@@ -202,10 +205,6 @@ graph LR
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔐 Security Thought
 
 > *"Security is not a product, but a continuous process of improvement and vigilance."*  
@@ -213,7 +212,7 @@ graph LR
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting+My+Profile!+%F0%9F%91%8B;Let's+Build+a+Safer+Digital+World+Together!+%F0%9F%94%90" />
 
 **Made with 💙 by Ali Al-Karrar | Last Updated: 2026**
 

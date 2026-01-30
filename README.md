@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Al-Karrar (9gkc)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Cybersecurity%20Specialist&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FF00&height=200&section=header&text=Cybersecurity%20Student&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -72,5 +72,5 @@ I am a **Cybersecurity Student** at **Al-Kunooze University**, based in Basra, I
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FF00&height=100&section=footer" />
 </p>

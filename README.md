@@ -198,7 +198,6 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/9gkc)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkarara70cys@gmail.com)
 
-
 </div>
 
 ---

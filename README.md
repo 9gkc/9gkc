@@ -1,18 +1,20 @@
 <div align="center">
 
-# Ali Al-Karrar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Ali%20Al-Karrar&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineer%20%7C%20Web%20Application%20Security&descAlignY=62&descSize=17&descColor=C9D1D9" width="100%"/>
 
-### Cybersecurity Engineer · Web Application Security · Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Application+Security;Vulnerability+Assessment;Full-Stack+Web+Developer;Responsible+Disclosure+Researcher" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/Basra-Iraq-informational?style=flat-square&color=1a1a2e&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-Web%20App%20Security-informational?style=flat-square&color=1a1a2e&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-informational?style=flat-square&color=1a1a2e&labelColor=0D1117" />
+<br/>
+
+<img src="https://img.shields.io/badge/Basra-Iraq-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/Focus-Web%20App%20Security-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
 
 </div>
 
 <br/>
 
-## About
+## 🧭 About
 
 I'm a cybersecurity student and web developer focused on **web application security** and **vulnerability assessment**, with hands-on experience in responsible disclosure research. Alongside security work, I build full-stack applications with React, Firebase, and Node.js.
 
@@ -23,7 +25,7 @@ I'm a cybersecurity student and web developer focused on **web application secur
 
 <br/>
 
-## Skills
+## ⚡ Skills
 
 **Security**
 
@@ -55,7 +57,7 @@ I'm a cybersecurity student and web developer focused on **web application secur
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -66,7 +68,7 @@ I'm a cybersecurity student and web developer focused on **web application secur
 
 <br/>
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 
@@ -81,4 +83,8 @@ I'm a cybersecurity student and web developer focused on **web application secur
 </a>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
 

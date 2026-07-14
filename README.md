@@ -87,41 +87,6 @@ print(ali.connect())
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=9gkc&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=9gkc&theme=react-dark&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/9gkc/9gkc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ To enable the snake animation, add the **[Platane/snk](https://github.com/Platane/snk)** GitHub Action to a repo named `9gkc/9gkc` — it auto-generates the SVG above on a schedule.
-
-<br/>
-
-## 🎓 Learning Path
-
-```mermaid
-graph LR
-    A[🎓 Cybersecurity Student] --> B[🔐 Ethical Hacking]
-    A --> C[🔍 Vulnerability Assessment]
-    A --> D[🌐 Web App Security]
-    B --> E[📜 Certifications]
-    C --> E
-    D --> E
-    E --> F[🛡️ Security Professional]
-```
-
 <br/>
 
 ## 🤝 Connect With Me

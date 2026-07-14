@@ -1,4 +1,4 @@
-<div align="center">
+# <div align="center">
 
 # 🛡️ Ali Al-Karrar (9gkc)
 
@@ -13,6 +13,8 @@
 ---
 
 ## 👨‍💻 About Me
+
+Welcome to my GitHub profile! I'm Ali Al-Karrar, a passionate Cybersecurity Student dedicated to exploring and securing the digital landscape. My journey involves diving deep into various aspects of cybersecurity, from ethical hacking to digital forensics, always striving to build a safer online world. 
 
 ```python
 class CybersecurityStudent:

@@ -61,8 +61,9 @@ I'm a cybersecurity student and web developer focused on **web application secur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/9gkc&label=Public%20Repos&query=$.public_repos&color=58A6FF&style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/9gkc?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/9gkc?affiliations=OWNER&style=for-the-badge&label=Stars&color=58A6FF&labelColor=0D1117" />
 
 </div>
 

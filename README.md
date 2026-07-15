@@ -37,6 +37,18 @@ I'm a dedicated **Cybersecurity Engineer** and **Web Developer** based in Basra,
 
 <br/>
 
+## 🚀 Featured Projects
+
+Here are some of my key projects, showcasing my expertise in cybersecurity and web development:
+
+| Project Name | Description | Technologies/Focus |
+| :----------- | :---------- | :----------------- |
+| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | 🛡️ Advanced Cybersecurity Platform for Defensive Web Scanning. Experience the Live Demo here: [https://9gkc.github.io/Al-Kunooze-Security/](https://9gkc.github.io/Al-Kunooze-Security/) | `Cybersecurity`, `Web Security`, `Vulnerability Scanning` |
+| **[WiFiScan](https://github.com/9gkc/WiFiScan)** | Professional Python script for scanning and analyzing Wi-Fi network security and encryption. | `Python`, `Network Security`, `Cybersecurity`, `Wi-Fi Security` |
+| **[AtomicSite](https://github.com/9gkc/AtomicSite)** | An educational cybersecurity platform featuring technical reports on encryption, network security, and secure system simulations. | `Cybersecurity`, `Education`, `Cryptography`, `Network Security` |
+
+<br/>
+
 ## 📊 GitHub Contribution
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />

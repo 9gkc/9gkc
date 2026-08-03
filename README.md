@@ -2,10 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Ali%20Al-Karrar&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineer%20%7C%20Web%20Application%20Security&descAlignY=62&descSize=17&descColor=C9D1D9" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Application+Security;Vulnerability+Assessment;Full-Stack+Web+Developer;Responsible+Disclosure+Researcher" alt="Typing SVG" />
 
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9gkc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9gkc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 

@@ -45,13 +45,6 @@ Here are some of my key projects, showcasing my expertise in cybersecurity and w
 
 <br/>
 
-## 📊 GitHub Contribution
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9gkc&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 📬 Let's Connect
 <div align="center">
 <a href="mailto:alkarara70cys@gmail.com">

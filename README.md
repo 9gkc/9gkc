@@ -37,6 +37,7 @@ The repositories below are ordered by area so visitors can quickly find a releva
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
+| [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first AppSec operations workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
 | [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-scanning platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |
 | [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without enabling interfaces automatically. | — |
 | [**AtomicSite**](https://github.com/9gkc/AtomicSite) | Educational cybersecurity site covering encryption, network security, and secure-system concepts. | [Open demo](https://9gkc.github.io/AtomicSite/) |
@@ -51,7 +52,7 @@ The repositories below are ordered by area so visitors can quickly find a releva
 | [**CurrConv**](https://github.com/9gkc/CurrConv) | Currency conversion interface with validated values, configurable API routing, and clear network states. | [Open demo](https://9gkc.github.io/CurrConv/) |
 | [**Eventify**](https://github.com/9gkc/Eventify) | Event countdown manager with validated dates, safe local persistence, and accessible event cards. | [Open demo](https://9gkc.github.io/Eventify/) |
 
-### Games and interactive experiences
+### Interactive tools and experiences
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |

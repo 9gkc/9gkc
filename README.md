@@ -37,6 +37,7 @@ The repositories below are ordered by area so visitors can quickly find a releva
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
+| [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | Arabic-first cybersecurity learning workspace with role-based roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
 | [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first AppSec operations workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
 | [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-scanning platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |
 | [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without enabling interfaces automatically. | — |

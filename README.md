@@ -1,63 +1,78 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Ali%20Al-Karrar&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineer%20%7C%20Web%20Application%20Security&descAlignY=62&descSize=17&descColor=C9D1D9" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Application+Security;Vulnerability+Assessment;Full-Stack+Web+Developer;Responsible+Disclosure+Researcher" alt="Typing SVG" />
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/Basra-Iraq-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/Focus-Web%20App%20Security-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Ali%20Al-Karrar&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Engineer%20%7C%20Web%20Application%20Security&descAlignY=62&descSize=17&descColor=C9D1D9" width="100%" alt="Ali Al-Karrar profile header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Application+Security;Vulnerability+Assessment;Full-Stack+Web+Developer;Responsible+Disclosure+Researcher" alt="Web application security, vulnerability assessment, full-stack development, and responsible disclosure" />
 </div>
 
-<br/>
-
-## 🧭 About Me
-I'm a dedicated **Cybersecurity Engineer** and **Web Developer** based in Basra, Iraq. My core focus lies at the intersection of secure software development and advanced vulnerability assessment. I specialize in identifying security flaws in web applications and building robust, production-ready full-stack solutions.
-
-- 🔐 **Security Focus**: Expert in both offensive (Red Team) and defensive (Blue Team) strategies.
-- 🧪 **Research**: Active in Responsible Disclosure, finding and reporting real-world vulnerabilities.
-- 🛠️ **Development**: Building scalable web applications using React, Node.js, and Firebase.
-- 🎓 **Education**: Continuously evolving through practical simulations and technical reporting.
-
-<br/>
-
-## ⚡ Technical Skills
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Security Tools** | `Burp Suite`, `Kali Linux`, `Wireshark`, `Metasploit`, `OWASP ZAP` |
-| **Languages** | `JavaScript`, `TypeScript`, `Python`, `Dart`, `Java`, `HTML5`, `CSS3` |
-| **Web Dev** | `React`, `Node.js`, `Express`, `Firebase`, `Flutter`, `Tailwind CSS` |
-| **DevOps & Tools** | `Git`, `GitHub Actions`, `Postman`, `Docker`, `VS Code` |
-
-<br/>
-
-## 🚀 Featured Projects
-
-Here are some of my key projects, showcasing my expertise in cybersecurity and web development:
-
-| Project Name | Description | Technologies/Focus |
-| :----------- | :---------- | :----------------- |
-| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | 🛡️ Advanced Cybersecurity Platform for Defensive Web Scanning. Experience the Live Demo here: [https://9gkc.github.io/Al-Kunooze-Security/](https://9gkc.github.io/Al-Kunooze-Security/) | `Cybersecurity`, `Web Security`, `Vulnerability Scanning` |
-| **[WiFiScan](https://github.com/9gkc/WiFiScan)** | Professional Python script for scanning and analyzing Wi-Fi network security and encryption. | `Python`, `Network Security`, `Cybersecurity`, `Wi-Fi Security` |
-| **[AtomicSite](https://github.com/9gkc/AtomicSite)** | An educational cybersecurity platform featuring technical reports on encryption, network security, and secure system simulations. | `Cybersecurity`, `Education`, `Cryptography`, `Network Security` |
-
-<br/>
-
-## 📬 Let's Connect
 <div align="center">
-<a href="mailto:alkarara70cys@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://linkedin.com/in/9gkc">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/9gkc">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Basra-Iraq-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Based in Basra, Iraq" />
+  <img src="https://img.shields.io/badge/Focus-Web%20App%20Security-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Focus: web application security" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Open to collaborate" />
 </div>
 
-<br/>
+## About me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
+I am a **Cybersecurity Engineer and Web Developer** based in Basra, Iraq. I work at the intersection of secure software development, defensive security tooling, and practical vulnerability assessment. My goal is to build software that is useful, maintainable, and secure by default.
+
+| Area | Focus |
+| :--- | :--- |
+| **Security** | Web application security, defensive scanning, responsible disclosure, and security reporting |
+| **Development** | React, TypeScript, JavaScript, Node.js, Python, HTML, and CSS |
+| **Engineering** | Input validation, safe DOM rendering, accessible interfaces, automated checks, and documentation |
+| **Collaboration** | Open-source learning projects, technical research, and responsible security work |
+
+## Technical skills
+
+| Domain | Technologies and tools |
+| :--- | :--- |
+| **Security** | `Burp Suite`, `Kali Linux`, `Wireshark`, `Metasploit`, `OWASP ZAP` |
+| **Languages** | `JavaScript`, `TypeScript`, `Python`, `Dart`, `Java`, `HTML5`, `CSS3` |
+| **Web development** | `React`, `Node.js`, `Express`, `Firebase`, `Flutter`, `Tailwind CSS` |
+| **DevOps and tools** | `Git`, `GitHub Actions`, `Postman`, `Docker`, `VS Code` |
+
+## Projects
+
+The repositories below are ordered by area so visitors can quickly find a relevant project.
+
+### Security and engineering
+
+| Project | Description |
+| :--- | :--- |
+| [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-scanning platform with server-side target validation, safe result handling, and a live demo. |
+| [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without enabling interfaces automatically. |
+| [**AtomicSite**](https://github.com/9gkc/AtomicSite) | Educational cybersecurity site covering encryption, network security, and secure-system concepts. |
+
+### Web applications and utilities
+
+| Project | Description |
+| :--- | :--- |
+| [**ShopFlow**](https://github.com/9gkc/ShopFlow) | Product catalog and cart interface with validated product data, safe rendering, category filters, and quantity controls. |
+| [**Bookmarker**](https://github.com/9gkc/Bookmarker) | Local bookmark manager with categories, HTTP/HTTPS validation, safe links, and accessible filtering. |
+| [**NewsFeed**](https://github.com/9gkc/NewsFeed) | News interface with safe content rendering, explicit loading states, and secure API configuration guidance. |
+| [**CurrConv**](https://github.com/9gkc/CurrConv) | Currency conversion interface with validated values, configurable API routing, and clear network states. |
+| [**Eventify**](https://github.com/9gkc/Eventify) | Event countdown manager with validated dates, safe local persistence, and accessible event cards. |
+
+### Games and interactive experiences
+
+| Project | Description |
+| :--- | :--- |
+| [**PassGen**](https://github.com/9gkc/PassGen) | Password generator using Web Crypto randomness, configurable length, and privacy-conscious optional history. |
+| [**QuoteGen**](https://github.com/9gkc/QuoteGen) | Quote viewer with safe text rendering, resilient data loading, copy support, and controlled autoplay. |
+| [**Roshambo**](https://github.com/9gkc/Roshambo) | Rock Paper Scissors game with bounded rounds, validated local history, and accessible controls. |
+| [**SlideShow**](https://github.com/9gkc/SlideShow) | Responsive image slider with keyboard navigation, live status, and accessible thumbnails. |
+| [**TicTacToe**](https://github.com/9gkc/TicTacToe) | Two-player game with reliable win/draw detection, live status messages, and reset controls. |
+
+## Principles
+
+I prefer **secure defaults, clear interfaces, small verifiable changes, and documentation that matches the code**. Security research and testing should be performed only on systems where permission has been granted.
+
+## Contact
+
+<div align="center">
+  <a href="mailto:alkarara70cys@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Ali Al-Karrar" /></a>
+  <a href="https://linkedin.com/in/9gkc"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/9gkc"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=120&section=footer" width="100%" alt="Profile footer" />
+</div>

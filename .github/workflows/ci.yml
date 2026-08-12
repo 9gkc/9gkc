@@ -1,4 +1,4 @@
-name: CI
+name: Profile checks
 
 on:
   push:
@@ -6,21 +6,36 @@ on:
   pull_request:
     branches: ["**"]
 
+permissions:
+  contents: read
+
 jobs:
-  build:
+  validate-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Repository overview
+      - name: Validate profile README
+        shell: bash
         run: |
-          echo "This repository is a GitHub profile/README. No build steps configured."
+          set -euo pipefail
+          test -s README.md
+          grep -q "## About me" README.md
+          grep -q "## Technical skills" README.md
+          grep -q "## Projects" README.md
+          grep -q "https://github.com/9gkc/Al-Kunooze-Security" README.md
+          grep -q "https://github.com/9gkc/WiFiScan" README.md
+          grep -q "https://github.com/9gkc/AtomicSite" README.md
+          grep -q "https://github.com/9gkc/ShopFlow" README.md
+          grep -q "https://github.com/9gkc/Bookmarker" README.md
+          grep -q "https://github.com/9gkc/TicTacToe" README.md
+          test "$(grep -o 'https://github.com/9gkc/[A-Za-z0-9._-]*' README.md | sort -u | wc -l)" -ge 12
 
-      - name: Check Markdown formatting (optional)
+      - name: Check Markdown structure
+        shell: bash
         run: |
-          if command -v markdownlint >/dev/null 2>&1; then
-            markdownlint **/*.md || true
-          else
-            echo "markdownlint not installed — skipping."
-          fi
+          set -euo pipefail
+          ! grep -nE 'YOUR_USERNAME|<repository-url>|simple-ecommerce-cart|image-slider-thumbnails|tic-tac-toe-game' README.md
+          ! grep -nE '<img[^>]*alt=""' README.md
+          test "$(grep -c '^## ' README.md)" -ge 4

@@ -37,7 +37,7 @@ The projects below are grouped by purpose. Each public web application includes 
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
-| [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | Defensive Python CLI and GitHub Action for verifying declared API authorization expectations only within explicitly approved scope, with low-impact requests, private-network safeguards, OpenAPI checks, and remediation-ready Markdown, JSON, JUnit, and SARIF reports. | [Open repository](https://github.com/9gkc/AuthZGuard) |
+| [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | Defensive Python CLI and GitHub Action for verifying declared API authorization expectations only within explicitly approved scope, with low-impact requests, private-network safeguards, OpenAPI checks, and remediation-ready Markdown, JSON, JUnit, and SARIF reports. | [Open project site](https://9gkc.github.io/AuthZGuard/) |
 | [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | English-first cybersecurity learning workspace with role-oriented roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
 | [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first application-security workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
 | [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-security platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |

@@ -47,6 +47,7 @@ The projects below are grouped by purpose. Each public web application includes 
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
+| [**IraqCode**](https://github.com/9gkc/IraqCode) | Arabic-first bilingual programming-learning platform with structured Python, HTML/CSS, JavaScript, Git/GitHub, and SQL paths; local progress tracking; project missions; and a transparent skill passport. | [Open live platform](https://9gkc.github.io/IraqCode/) |
 | [**ShopFlow**](https://github.com/9gkc/ShopFlow) | Product-catalog and cart interface with validated product data, safe rendering, category filters, and quantity controls. | [Open demo](https://9gkc.github.io/ShopFlow/) |
 | [**Bookmarker**](https://github.com/9gkc/Bookmarker) | Local bookmark manager with categories, HTTP/HTTPS validation, safe links, and accessible filtering. | [Open demo](https://9gkc.github.io/Bookmarker/) |
 | [**NewsFeed**](https://github.com/9gkc/NewsFeed) | News interface with safe content rendering, explicit loading states, and secure API-configuration guidance. | [Open demo](https://9gkc.github.io/NewsFeed/) |

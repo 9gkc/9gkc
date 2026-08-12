@@ -9,21 +9,21 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1a1a2e?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Open to collaborate" />
 </div>
 
-## About me
+## About Me
 
-I am a **Cybersecurity Engineer and Web Developer** based in Basra, Iraq. I work at the intersection of secure software development, defensive security tooling, and practical vulnerability assessment. My goal is to build software that is useful, maintainable, and secure by default.
+I am a **Cybersecurity Engineer and Full-Stack Web Developer** based in Basra, Iraq. My work sits at the intersection of secure software development, defensive security tooling, and authorized vulnerability assessment. I build practical software that is maintainable, accessible, and secure by default.
 
 | Area | Focus |
-| :--- | :--- | :--- |
-| **Security** | Web application security, defensive scanning, responsible disclosure, and security reporting |
+| :--- | :--- |
+| **Security** | Web application security, defensive assessment, responsible disclosure, and security reporting |
 | **Development** | React, TypeScript, JavaScript, Node.js, Python, HTML, and CSS |
 | **Engineering** | Input validation, safe DOM rendering, accessible interfaces, automated checks, and documentation |
 | **Collaboration** | Open-source learning projects, technical research, and responsible security work |
 
-## Technical skills
+## Technical Skills
 
 | Domain | Technologies and tools |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Security** | `Burp Suite`, `Kali Linux`, `Wireshark`, `Metasploit`, `OWASP ZAP` |
 | **Languages** | `JavaScript`, `TypeScript`, `Python`, `Dart`, `Java`, `HTML5`, `CSS3` |
 | **Web development** | `React`, `Node.js`, `Express`, `Firebase`, `Flutter`, `Tailwind CSS` |
@@ -31,29 +31,29 @@ I am a **Cybersecurity Engineer and Web Developer** based in Basra, Iraq. I work
 
 ## Projects
 
-The repositories below are ordered by area so visitors can quickly find a relevant project. Public web applications include a direct demo link for quick evaluation.
+The projects below are grouped by purpose. Each public web application includes a direct demo link for quick review.
 
-### Security and engineering
+### Security and Engineering
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
-| [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | Arabic-first cybersecurity learning workspace with role-based roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
-| [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first AppSec operations workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
-| [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-scanning platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |
-| [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without enabling interfaces automatically. | — |
+| [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | English-first cybersecurity learning workspace with role-oriented roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
+| [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first application-security workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
+| [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-security platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |
+| [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without automatically enabling network interfaces. | — |
 | [**AtomicSite**](https://github.com/9gkc/AtomicSite) | Educational cybersecurity site covering encryption, network security, and secure-system concepts. | [Open demo](https://9gkc.github.io/AtomicSite/) |
 
-### Web applications and utilities
+### Web Applications and Utilities
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
-| [**ShopFlow**](https://github.com/9gkc/ShopFlow) | Product catalog and cart interface with validated product data, safe rendering, category filters, and quantity controls. | [Open demo](https://9gkc.github.io/ShopFlow/) |
+| [**ShopFlow**](https://github.com/9gkc/ShopFlow) | Product-catalog and cart interface with validated product data, safe rendering, category filters, and quantity controls. | [Open demo](https://9gkc.github.io/ShopFlow/) |
 | [**Bookmarker**](https://github.com/9gkc/Bookmarker) | Local bookmark manager with categories, HTTP/HTTPS validation, safe links, and accessible filtering. | [Open demo](https://9gkc.github.io/Bookmarker/) |
-| [**NewsFeed**](https://github.com/9gkc/NewsFeed) | News interface with safe content rendering, explicit loading states, and secure API configuration guidance. | [Open demo](https://9gkc.github.io/NewsFeed/) |
-| [**CurrConv**](https://github.com/9gkc/CurrConv) | Currency conversion interface with validated values, configurable API routing, and clear network states. | [Open demo](https://9gkc.github.io/CurrConv/) |
+| [**NewsFeed**](https://github.com/9gkc/NewsFeed) | News interface with safe content rendering, explicit loading states, and secure API-configuration guidance. | [Open demo](https://9gkc.github.io/NewsFeed/) |
+| [**CurrConv**](https://github.com/9gkc/CurrConv) | Currency-conversion interface with validated values, configurable API routing, and clear network states. | [Open demo](https://9gkc.github.io/CurrConv/) |
 | [**Eventify**](https://github.com/9gkc/Eventify) | Event countdown manager with validated dates, safe local persistence, and accessible event cards. | [Open demo](https://9gkc.github.io/Eventify/) |
 
-### Interactive tools and experiences
+### Interactive Tools and Experiences
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ The repositories below are ordered by area so visitors can quickly find a releva
 
 ## Principles
 
-I prefer **secure defaults, clear interfaces, small verifiable changes, and documentation that matches the code**. Security research and testing should be performed only on systems where permission has been granted.
+I value **secure defaults, clear interfaces, small verifiable changes, and documentation that matches the code**. Security research and testing are performed only where explicit permission has been granted.
 
 ## Contact
 

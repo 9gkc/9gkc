@@ -29,9 +29,25 @@ I am a **Cybersecurity Engineer and Full-Stack Web Developer** based in Basra, I
 | **Web development** | `React`, `Node.js`, `Express`, `Firebase`, `Flutter`, `Tailwind CSS` |
 | **DevOps and tools** | `Git`, `GitHub Actions`, `Postman`, `Docker`, `VS Code` |
 
+## Featured Work
+
+The projects below are selected because they are independently reviewable: each has public source code, a direct project entry point or release, and documentation that states its intended boundary.
+
+<div align="center">
+  <a href="https://github.com/9gkc/FileGuard/releases/latest"><img src="https://raw.githubusercontent.com/9gkc/FileGuard/main/docs/images/fileguard-en.webp" width="48%" alt="FileGuard English desktop interface showing local safe file triage" /></a>
+  <a href="https://9gkc.github.io/IraqCode/"><img src="https://raw.githubusercontent.com/9gkc/IraqCode/main/docs/images/iraqcode-dashboard-ar.webp" width="48%" alt="IraqCode Arabic right-to-left learning dashboard" /></a>
+</div>
+
+| Featured project | What it demonstrates | Start here |
+| :--- | :--- | :--- |
+| [**FileGuard**](https://github.com/9gkc/FileGuard) | A bilingual desktop application that triages selected files locally without executing them or automatically uploading them. | [Windows release](https://github.com/9gkc/FileGuard/releases/latest) |
+| [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | A defensive authorization-verification CLI constrained to explicit written authorization and declared API scope. | [Safety-first project guide](https://9gkc.github.io/AuthZGuard/) |
+| [**IraqCode**](https://github.com/9gkc/IraqCode) | An Arabic-first, bilingual learning platform with sequenced programming lessons and local study progress. | [Live learning platform](https://9gkc.github.io/IraqCode/) |
+| [**AegisScope**](https://github.com/9gkc/AegisScope) | An allowlist-first AppSec workspace built for authorized assets, findings, and remediation-focused reporting. | [Public portfolio entry point](https://aegisappsec-apcnhon3.manus.space) |
+
 ## Projects
 
-The projects below are grouped by purpose. Each public web application includes a direct demo link for quick review.
+The full project directory is grouped by purpose. Direct links point to a public demo, a project guide, or a release where one is available.
 
 ### Security and Engineering
 
@@ -39,7 +55,7 @@ The projects below are grouped by purpose. Each public web application includes 
 | :--- | :--- | :--- |
 | [**FileGuard**](https://github.com/9gkc/FileGuard) | Bilingual, offline-first desktop utility for safe local file triage. It inspects selected files without executing them or uploading data automatically, explains deterministic indicators, inventories archives safely, calculates SHA-256, and exports Arabic or English reports. | [Download Windows installer](https://github.com/9gkc/FileGuard/releases/latest) |
 | [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | Defensive Python CLI and GitHub Action for verifying declared API authorization expectations only within explicitly approved scope, with low-impact requests, private-network safeguards, OpenAPI checks, and remediation-ready Markdown, JSON, JUnit, and SARIF reports. | [Open project site](https://9gkc.github.io/AuthZGuard/) |
-| [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | English-first cybersecurity learning workspace with role-oriented roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
+| [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | Bilingual cybersecurity learning workspace with role-oriented roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
 | [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first application-security workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |
 | [**Al-Kunooze-Security**](https://github.com/9gkc/Al-Kunooze-Security) | Defensive web-security platform with server-side target validation, safe result handling, and a live demo. | [Open demo](https://9gkc.github.io/Al-Kunooze-Security/) |
 | [**WiFiScan**](https://github.com/9gkc/WiFiScan) | Defensive Python tool for inspecting Wi-Fi security and encryption information without automatically enabling network interfaces. | — |

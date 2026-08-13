@@ -37,6 +37,7 @@ The projects below are grouped by purpose. Each public web application includes 
 
 | Project | Description | Demo |
 | :--- | :--- | :--- |
+| [**FileGuard**](https://github.com/9gkc/FileGuard) | Bilingual, offline-first desktop utility for safe local file triage. It inspects selected files without executing them or uploading data automatically, explains deterministic indicators, inventories archives safely, calculates SHA-256, and exports Arabic or English reports. | [Download Windows installer](https://github.com/9gkc/FileGuard/releases/latest) |
 | [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | Defensive Python CLI and GitHub Action for verifying declared API authorization expectations only within explicitly approved scope, with low-impact requests, private-network safeguards, OpenAPI checks, and remediation-ready Markdown, JSON, JUnit, and SARIF reports. | [Open project site](https://9gkc.github.io/AuthZGuard/) |
 | [**Cyber 4 Ever**](https://github.com/9gkc/Cyber-4-Ever) | English-first cybersecurity learning workspace with role-oriented roadmaps, allowlisted safe-lab guidance, private local study tracking, evidence-aware student portfolios, and responsible-practice boundaries. | [Open live platform](https://9gkc.github.io/Cyber-4-Ever/) |
 | [**AegisScope**](https://github.com/9gkc/AegisScope) | Allowlist-first application-security workspace for authorized assets, findings, structured security reports, low-impact header reviews, and local configuration checks. | [Open live platform](https://aegisappsec-apcnhon3.manus.space) |

@@ -19,7 +19,9 @@ My work brings together **application security, full-stack development, defensiv
 
 > **Responsible-use boundary:** security research and testing are performed only with explicit authorization and within the approved scope.
 
-## Featured work
+## Projects
+
+### Featured work
 
 These projects represent the core of my current work. Each entry links directly to its repository and, where available, its official release or live platform.
 

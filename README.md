@@ -42,9 +42,9 @@ Four projects that best represent the direction of my work.
 
 | 01 | **FileGuard** | A bilingual, offline-first Windows utility for inspecting selected local files without executing them or automatically uploading data. | [Release](https://github.com/9gkc/FileGuard/releases/latest) |
 | :--- | :--- | :--- | :--- |
-| 02 | **AuthZGuard** | Defensive authorization-verification tooling for explicit, approved API scopes, with CI-friendly reports and safeguards. | [Guide](https://9gkc.github.io/AuthZGuard/) |
-| 03 | **IraqCode** | An Arabic-first bilingual programming platform with sequenced lessons, project missions, local progress, and a transparent skill passport. | [Live](https://9gkc.github.io/IraqCode/) |
-| 04 | **AegisScope** | An allowlist-first AppSec workspace for authorized assets, findings, low-impact reviews, and structured reports. | [Platform](https://aegisappsec-apcnhon3.manus.space) |
+| 02 | [**AuthZGuard**](https://github.com/9gkc/AuthZGuard) | Defensive authorization-verification tooling for explicit, approved API scopes, with CI-friendly reports and safeguards. | [Guide](https://9gkc.github.io/AuthZGuard/) |
+| 03 | [**IraqCode**](https://github.com/9gkc/IraqCode) | An Arabic-first bilingual programming platform with sequenced lessons, project missions, local progress, and a transparent skill passport. | [Live](https://9gkc.github.io/IraqCode/) |
+| 04 | [**AegisScope**](https://github.com/9gkc/AegisScope) | An allowlist-first AppSec workspace for authorized assets, findings, low-impact reviews, and structured reports. | [Platform](https://aegisappsec-apcnhon3.manus.space) |
 
 ### More work
 

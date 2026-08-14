@@ -10,7 +10,9 @@ I build security-focused tools, learning platforms, and practical web applicatio
 
 > All security research and testing is performed only with explicit authorization and within the approved scope.
 
-## What I Build
+## About me
+
+### What I Build
 
 | Focus | What it means in practice |
 | :--- | :--- |
@@ -19,7 +21,9 @@ I build security-focused tools, learning platforms, and practical web applicatio
 | **Security education** | Arabic-first learning experiences, safe lab guidance, structured roadmaps, and responsible disclosure. |
 | **Practical web products** | Small, focused applications that are reliable, understandable, and easy to verify. |
 
-## Featured Work
+## Projects
+
+### Featured Work
 
 These projects best represent my current direction across defensive security engineering, education, and product development.
 
@@ -65,7 +69,9 @@ These projects best represent my current direction across defensive security eng
 | [**SlideShow**](https://github.com/9gkc/SlideShow) | Responsive image slider with keyboard navigation, live status, and accessible thumbnails. |
 | [**TicTacToe**](https://github.com/9gkc/TicTacToe) | Two-player game with reliable win/draw detection, live status messages, and reset controls. |
 
-## Technical Toolkit
+## Technical skills
+
+### Technical Toolkit
 
 | Domain | Technologies and tools |
 | :--- | :--- |

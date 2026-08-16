@@ -1,39 +1,52 @@
 <div align="center">
-  <h1>Ali Alkarar</h1>
-  <p><strong>Cybersecurity Engineer · Secure Software Builder · Open-Source Developer</strong></p>
-  <p><code>@9gkc</code> · Basra, Iraq</p>
-  <p>
-    <a href="https://github.com/9gkc">GitHub</a> ·
-    <a href="https://linkedin.com/in/9gkc">LinkedIn</a> ·
-    <a href="mailto:alkarara70cys@gmail.com">Email</a>
-  </p>
+
+# Ali Alkarar
+
+### Cybersecurity Engineer · Secure Software Builder · Open-Source Developer
+
+<p>
+  <a href="https://github.com/9gkc"><img src="https://img.shields.io/badge/GitHub-9gkc-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://linkedin.com/in/9gkc"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alkarara70cys@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Focus-Application%20Security-0F766E?style=flat-square" alt="Application security" />
+</p>
+
+**Basra, Iraq · Building useful, understandable, and safer technology**
+
 </div>
 
 ---
 
-## About me
+## Profile
 
-I am **Ali Alkarar**, known on GitHub as **[@9gkc](https://github.com/9gkc)**. I build practical security tools, secure web applications, and Arabic-first learning experiences from **Basra, Iraq**.
+I am **Ali Alkarar**, known on GitHub as **[@9gkc](https://github.com/9gkc)**. I design and build practical security tools, secure web applications, learning platforms, and open-source projects with a strong focus on clarity and responsible use.
 
-My work brings together **application security, full-stack development, defensive engineering, and technical education**. I care about software that is useful, understandable, maintainable, and safe to operate.
+My work sits at the intersection of **application security, full-stack engineering, defensive tooling, and Arabic-first technical education**. I care about software that solves a real problem, communicates its limitations honestly, and remains maintainable after the first release.
 
-> **Responsible-use boundary:** security research and testing are performed only with explicit authorization and within the approved scope.
+> **Responsible-use boundary:** Security research and testing are performed only with explicit authorization, within an approved scope, and with safeguards that reduce unnecessary impact.
 
-## Projects
+## What I build
 
-### Featured work
+| Area | Direction |
+| :--- | :--- |
+| **Application security** | Defensive review workflows, authorization verification, secure defaults, and structured findings. |
+| **Security education** | Arabic-first learning experiences, safe labs, progressive roadmaps, and accessible explanations. |
+| **Product engineering** | Focused web, desktop, Android, and browser applications built around reliable state and clear user flows. |
+| **Open source** | Small, documented, verifiable projects that are useful to learners, builders, and security practitioners. |
 
-These projects represent the core of my current work. Each entry links directly to its repository and, where available, its official release or live platform.
+## Featured work
 
-| Project | What it is | Official link |
+These projects represent the strongest themes across my current portfolio. Each link points to the project’s official repository or release surface.
+
+| Project | Purpose | Explore |
 | :--- | :--- | :--- |
-| **[CyKun](https://github.com/9gkc/cykun)** | Official Android Reader for **Cyber Kunooze / سايبر الكنوز**. An Arabic, right-to-left student application for browsing university cybersecurity stages, semesters, subjects, numbered lectures, approved PDF resources, announcements, and timetable notices. | [Download APK](https://github.com/9gkc/cykun/releases/latest) |
-| **[FileGuard](https://github.com/9gkc/FileGuard)** | Bilingual, offline-first Windows utility for inspecting selected local files without executing them or automatically uploading data. | [Latest release](https://github.com/9gkc/FileGuard/releases/latest) |
-| **[AuthZGuard](https://github.com/9gkc/AuthZGuard)** | Defensive authorization-verification tooling for explicit, approved API scopes, with CI-friendly reports and security safeguards. | [Documentation](https://9gkc.github.io/AuthZGuard/) |
+| **[CyKun](https://github.com/9gkc/cykun)** | Arabic right-to-left Android reader for university cybersecurity stages, semesters, subjects, lectures, approved PDF resources, announcements, and timetable notices. | [Releases](https://github.com/9gkc/cykun/releases/latest) |
+| **[FileGuard](https://github.com/9gkc/FileGuard)** | Bilingual, offline-first Windows utility for inspecting selected local files without executing them or automatically uploading data. | [Releases](https://github.com/9gkc/FileGuard/releases/latest) |
+| **[AuthZGuard](https://github.com/9gkc/AuthZGuard)** | Defensive authorization-verification tooling for explicitly approved API scopes, with CI-friendly reports and safety controls. | [Documentation](https://9gkc.github.io/AuthZGuard/) |
 | **[IraqCode](https://github.com/9gkc/IraqCode)** | Arabic-first bilingual programming platform with sequenced lessons, project missions, local progress, and a transparent skill passport. | [Live platform](https://9gkc.github.io/IraqCode/) |
-| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets, low-impact reviews, findings, and structured reports. | [Platform](https://aegisappsec-apcnhon3.manus.space) |
+| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets, low-impact reviews, findings, and structured reporting. | [Platform](https://aegisappsec-apcnhon3.manus.space) |
 
-## Selected projects
+## Portfolio map
 
 ### Security engineering
 
@@ -41,37 +54,52 @@ These projects represent the core of my current work. Each entry links directly 
 
 ### Web applications and learning tools
 
-[**ShopFlow**](https://github.com/9gkc/ShopFlow), [**Bookmarker**](https://github.com/9gkc/Bookmarker), [**NewsFeed**](https://github.com/9gkc/NewsFeed), [**CurrConv**](https://github.com/9gkc/CurrConv), and [**Eventify**](https://github.com/9gkc/Eventify) are focused web applications built around validated data, safe rendering, clear state handling, and accessible interfaces.
+[**ShopFlow**](https://github.com/9gkc/ShopFlow), [**Bookmarker**](https://github.com/9gkc/Bookmarker), [**NewsFeed**](https://github.com/9gkc/NewsFeed), [**CurrConv**](https://github.com/9gkc/CurrConv), and [**Eventify**](https://github.com/9gkc/Eventify) explore validated data, safe rendering, predictable state handling, and accessible interfaces.
 
 ### Browser tools and interactive projects
 
-[**PassGen**](https://github.com/9gkc/PassGen), [**QuoteGen**](https://github.com/9gkc/QuoteGen), [**Roshambo**](https://github.com/9gkc/Roshambo), [**SlideShow**](https://github.com/9gkc/SlideShow), and [**TicTacToe**](https://github.com/9gkc/TicTacToe) demonstrate practical browser development, controlled state, responsive interfaces, and accessible interaction.
+[**PassGen**](https://github.com/9gkc/PassGen), [**QuoteGen**](https://github.com/9gkc/QuoteGen), [**Roshambo**](https://github.com/9gkc/Roshambo), [**SlideShow**](https://github.com/9gkc/SlideShow), and [**TicTacToe**](https://github.com/9gkc/TicTacToe) demonstrate practical browser development, responsive interaction, and controlled client-side state.
 
-## Technical skills
+## Technology focus
 
-| Area | Technologies and tools |
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+| Capability | Tools and practices |
 | :--- | :--- |
-| **Languages** | JavaScript · TypeScript · Python · Dart · Java · HTML5 · CSS3 |
-| **Web engineering** | React · Node.js · Express · Firebase · Flutter · Tailwind CSS |
-| **Security** | Burp Suite · Kali Linux · Wireshark · Metasploit · OWASP ZAP |
-| **Engineering workflow** | Git · GitHub Actions · Postman · Docker · VS Code |
+| **Languages** | JavaScript, TypeScript, Python, Dart, Java, HTML5, and CSS3. |
+| **Web and mobile** | React, Node.js, Express, Firebase, Flutter, and Tailwind CSS. |
+| **Security** | Burp Suite, Kali Linux, Wireshark, Metasploit, OWASP ZAP, and defensive validation. |
+| **Delivery** | Git, GitHub Actions, Postman, Docker, VS Code, documentation, and incremental verification. |
 
 ## Engineering principles
 
-I prefer **secure defaults, transparent limitations, accessible interfaces, small verifiable changes, and documentation that reflects the code**. In security-related projects, responsible-use boundaries are part of the product rather than an afterthought.
+I work from a few consistent principles: **secure by default**, **explicit authorization**, **accessible interfaces**, **small verifiable changes**, **transparent limitations**, and **documentation that reflects the implementation**. In security-focused projects, responsible-use boundaries are part of the product—not a disclaimer added at the end.
 
 ## Collaboration
 
-I welcome focused collaboration on open-source security tooling, Arabic-first technical education, secure web applications, and responsible disclosure. For a security concern, please follow the reporting guidance in [SECURITY.md](./SECURITY.md) instead of posting sensitive details publicly.
+I welcome focused collaboration on open-source security tooling, Arabic-first technical education, secure web applications, and responsible disclosure. If you are reporting a security concern, please follow the private process described in [SECURITY.md](./SECURITY.md) instead of posting sensitive details publicly.
+
+For contribution standards, scope expectations, and pull-request guidance, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contact
 
-**Ali Alkarar** · **[@9gkc](https://github.com/9gkc)**
+The best way to reach me is through [LinkedIn](https://linkedin.com/in/9gkc) or [email](mailto:alkarara70cys@gmail.com). You can also explore the complete project portfolio through [my GitHub profile](https://github.com/9gkc).
 
-[Email](mailto:alkarara70cys@gmail.com) · [LinkedIn](https://linkedin.com/in/9gkc) · [GitHub](https://github.com/9gkc)
+<div align="center">
 
 ---
 
-<div align="center">
-  <sub>Build with clarity. Test with authorization. Ship useful software.</sub>
+<sub>Build with clarity. Test with authorization. Ship useful software.</sub>
+
 </div>

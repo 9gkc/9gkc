@@ -38,10 +38,11 @@ My work sits at the intersection of:
 
 | Project | Description | Try / Explore |
 |:--------|:------------|:--------------|
-| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | Defensive passive web assessment (DNS, HTTPS, headers, scored JSON reports) — v1.2 | [Repo](https://github.com/9gkc/Al-Kunooze-Security) · Docker / local run |
-| **[IraqCode](https://github.com/9gkc/IraqCode)** | Bilingual, project-first programming education for Iraqi learners | **[Live platform](https://9gkc.github.io/IraqCode/)** |
-| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets and findings | **[Public preview](https://aegisappsec-apcnhon3.manus.space)** |
-| **[FileGuard](https://github.com/9gkc/FileGuard)** | Offline-first desktop triage for suspicious local files (no execution / no auto-upload) | [Releases](https://github.com/9gkc/FileGuard/releases) |
+| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | Defensive passive web assessment (DNS, HTTPS, headers, scored JSON reports) — v1.2 | [Repo](https://github.com/9gkc/Al-Kunooze-Security) · Docker / local |
+| **[IraqCode](https://github.com/9gkc/IraqCode)** | Bilingual, project-first programming education for Iraqi learners | **[Live](https://9gkc.github.io/IraqCode/)** |
+| **[Cyber-4-Ever](https://github.com/9gkc/Cyber-4-Ever)** | Privacy-first cybersecurity learning workspace (paths, planner, journal, portfolio) | **[Live](https://9gkc.github.io/Cyber-4-Ever/)** |
+| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets and findings | **[Preview](https://aegisappsec-apcnhon3.manus.space)** |
+| **[FileGuard](https://github.com/9gkc/FileGuard)** | Offline-first desktop triage for suspicious local files | [Releases](https://github.com/9gkc/FileGuard/releases) |
 | **[CyKun](https://github.com/9gkc/cykun)** | Arabic academic cybersecurity library for university students | [Releases](https://github.com/9gkc/cykun/releases) |
 | **[AuthZGuard](https://github.com/9gkc/AuthZGuard)** | Authorization regression testing for permitted API environments | [Repo](https://github.com/9gkc/AuthZGuard) |
 
@@ -50,7 +51,6 @@ My work sits at the intersection of:
 ### Portfolio Overview
 
 **Security Engineering**
-- [Cyber-4-Ever](https://github.com/9gkc/Cyber-4-Ever) — Privacy-first cybersecurity learning workspace
 - [WiFiScan](https://github.com/9gkc/WiFiScan) — Defensive Wi-Fi beacon inspection & encryption classification
 - [AtomicSite](https://github.com/9gkc/AtomicSite) — Educational material on encryption and network security
 - [tryhackme](https://github.com/9gkc/tryhackme) — Arabic write-ups for authorized TryHackMe rooms

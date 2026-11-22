@@ -36,14 +36,14 @@ My work sits at the intersection of:
 
 ### Featured Projects
 
-| Project | Description | Links |
-|:--------|:------------|:------|
-| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | Defensive passive web assessment platform (DNS, headers, HTTPS posture, scored reports) | [Live Demo](https://9gkc.github.io/Al-Kunooze-Security/) |
-| **[FileGuard](https://github.com/9gkc/FileGuard)** | Bilingual offline-first desktop tool for safe local file triage (no execution, no automatic upload) | [Releases](https://github.com/9gkc/FileGuard/releases/latest) |
-| **[CyKun](https://github.com/9gkc/cykun)** | Arabic academic cybersecurity library for university students (structured paths + Android releases) | [Releases](https://github.com/9gkc/cykun/releases/latest) |
-| **[AuthZGuard](https://github.com/9gkc/AuthZGuard)** | Authorization regression testing for permitted API environments | [Docs](https://9gkc.github.io/AuthZGuard/) |
-| **[IraqCode](https://github.com/9gkc/IraqCode)** | Bilingual, project-first programming education platform for Iraqi learners | [Live](https://9gkc.github.io/IraqCode/) |
-| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets and structured findings | [Platform](https://aegisappsec-apcnhon3.manus.space) |
+| Project | Description | Try / Explore |
+|:--------|:------------|:--------------|
+| **[Al-Kunooze-Security](https://github.com/9gkc/Al-Kunooze-Security)** | Defensive passive web assessment (DNS, HTTPS, headers, scored JSON reports) — v1.2 | [Repo](https://github.com/9gkc/Al-Kunooze-Security) · Docker / local run |
+| **[IraqCode](https://github.com/9gkc/IraqCode)** | Bilingual, project-first programming education for Iraqi learners | **[Live platform](https://9gkc.github.io/IraqCode/)** |
+| **[AegisScope](https://github.com/9gkc/AegisScope)** | Allowlist-first AppSec workspace for authorized assets and findings | **[Public preview](https://aegisappsec-apcnhon3.manus.space)** |
+| **[FileGuard](https://github.com/9gkc/FileGuard)** | Offline-first desktop triage for suspicious local files (no execution / no auto-upload) | [Releases](https://github.com/9gkc/FileGuard/releases) |
+| **[CyKun](https://github.com/9gkc/cykun)** | Arabic academic cybersecurity library for university students | [Releases](https://github.com/9gkc/cykun/releases) |
+| **[AuthZGuard](https://github.com/9gkc/AuthZGuard)** | Authorization regression testing for permitted API environments | [Repo](https://github.com/9gkc/AuthZGuard) |
 
 ---
 
@@ -51,15 +51,15 @@ My work sits at the intersection of:
 
 **Security Engineering**
 - [Cyber-4-Ever](https://github.com/9gkc/Cyber-4-Ever) — Privacy-first cybersecurity learning workspace
-- [WiFiScan](https://github.com/9gkc/WiFiScan) — Defensive Wi-Fi security & encryption inspection
+- [WiFiScan](https://github.com/9gkc/WiFiScan) — Defensive Wi-Fi beacon inspection & encryption classification
 - [AtomicSite](https://github.com/9gkc/AtomicSite) — Educational material on encryption and network security
 - [tryhackme](https://github.com/9gkc/tryhackme) — Arabic write-ups for authorized TryHackMe rooms
 
 **Web & Learning Tools**
-- ShopFlow · Bookmarker · NewsFeed · CurrConv · Eventify
+- [ShopFlow](https://github.com/9gkc/ShopFlow) · [Bookmarker](https://github.com/9gkc/Bookmarker) · [NewsFeed](https://github.com/9gkc/NewsFeed) · [CurrConv](https://github.com/9gkc/CurrConv) · [Eventify](https://github.com/9gkc/Eventify)
 
 **Browser Utilities**
-- PassGen · QuoteGen · Roshambo · SlideShow · TicTacToe
+- [PassGen](https://github.com/9gkc/PassGen) · [QuoteGen](https://github.com/9gkc/QuoteGen) · [Roshambo](https://github.com/9gkc/Roshambo) · [SlideShow](https://github.com/9gkc/SlideShow) · [TicTacToe](https://github.com/9gkc/TicTacToe)
 
 ---
 
@@ -81,8 +81,8 @@ My work sits at the intersection of:
 |:-----|:------------------|
 | **Languages** | JavaScript, TypeScript, Python, Dart, Java, HTML5, CSS3 |
 | **Web & Mobile** | React, Node.js, Express, Flutter, Tailwind CSS |
-| **Security** | OWASP mindset, defensive validation, Burp Suite, Wireshark, responsible tooling |
-| **Delivery** | Git, GitHub Actions, Docker, clear documentation, incremental verification |
+| **Security** | OWASP mindset, defensive validation, responsible tooling |
+| **Delivery** | Git, GitHub Actions, Docker, documentation that matches reality |
 
 ---
 
